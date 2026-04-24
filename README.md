@@ -71,6 +71,6 @@ This project was conducted in a controlled lab environment (Metasploitable2) for
 ---
 
 ## 👤 Author
-Asmaa Salah| 
+Asmaa Salah | 
 Penetration Tester | Bug Bounty Hunter  
 Focused on Offensive Security and Vulnerability Research
